@@ -1,0 +1,58 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url('images/vertical-panorama-banner-double-exposure-bitcoin-and-blockchain-concept-digital-economy-and-currency-trading_161452-5945.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 2159px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 54px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 0px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  --radius: 14px;
+  font-size: 1.125rem;
+  background-image: none;
+  margin: 89px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1780px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1363px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1022px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2171px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: -27px;
+    margin-right: -27px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 53px;
+    margin-bottom: 54px;
+  }
+}

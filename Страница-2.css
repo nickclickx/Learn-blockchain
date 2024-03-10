@@ -1,0 +1,146 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/vertical-panorama-banner-double-exposure-bitcoin-and-blockchain-concept-digital-economy-and-currency-trading_161452-5945.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 458px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 51px 306px 62px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 106px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 290px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 218px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-size: 150%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 492px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-bottom: 60px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 556px;
+  height: 300px;
+  --radius: 35px;
+  margin: 33px auto 0 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.75rem;
+  margin: -300px 0 60px 582px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    margin-top: 423px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -690px;
+    margin-left: 482px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 262px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 291px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -681px;
+    margin-left: 82px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 605px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 183px;
+    margin-top: 387px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: -549px;
+    margin-left: 0;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 428px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.75rem;
+  margin: 30px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  letter-spacing: 0px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  --radius: 14px;
+  font-size: 1.125rem;
+  background-image: none;
+  margin: 64px auto 58px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    font-size: 1.125rem;
+  }
+}
